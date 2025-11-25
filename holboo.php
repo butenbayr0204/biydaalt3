@@ -53,7 +53,7 @@
 </head>
 <body>
 
-<a href="index.php">
+<a href="index.html">
 <button>Буцах</button>
 </a>
 
